@@ -1,0 +1,6 @@
+@Fabric_Net_HostAddress = http://localhost:5259
+
+GET {{Fabric_Net_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
